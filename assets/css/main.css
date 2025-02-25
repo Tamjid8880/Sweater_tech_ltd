@@ -1,12 +1,3 @@
-/**
-* Template Name: Company
-* Template URL: https://bootstrapmade.com/company-free-html-bootstrap-template/
-* Updated: Aug 07 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
-
 /*--------------------------------------------------------------
 # Font & Color Variables
 # Help: https://bootstrapmade.com/color-system/
@@ -31,7 +22,7 @@
     /* Default color used for the majority of the text content across the entire website */
     --heading-color: #111111;
     /* Color for headings, subheadings and title throughout the website */
-    --accent-color: #1bbd36;
+    --accent-color: #451e5d;
     /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
     --surface-color: #ffffff;
     /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
@@ -45,7 +36,7 @@
 :root {
     --nav-color: #444444;
     /* The default color of the main navmenu links */
-    --nav-hover-color: #1bbd36;
+    --nav-hover-color: #451e5d;
     /* Applied to main navmenu links when they are hovered over or active */
     --nav-mobile-background-color: #ffffff;
     /* Used as the background color for mobile navigation menu */
@@ -53,7 +44,7 @@
     /* Used as the background color for dropdown items that appear when hovering over primary navigation items */
     --nav-dropdown-color: #444444;
     /* Used for navigation links of the dropdown items in the navigation menu. */
-    --nav-dropdown-hover-color: #1bbd36;
+    --nav-dropdown-hover-color: #451e5d;
     /* Similar to --nav-hover-color, this color is applied to dropdown navigation links when they are hovered over. */
 }
 
@@ -74,11 +65,11 @@
 }
 
 .accent-background {
-    --background-color: #1bbd36;
+    --background-color: #451e5d;
     --default-color: #ffffff;
     --heading-color: #ffffff;
     --accent-color: #ffffff;
-    --surface-color: #2ae149;
+    --surface-color: #451e5d;
     --contrast-color: #ffffff;
 }
 
